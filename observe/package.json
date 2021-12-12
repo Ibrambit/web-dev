@@ -1,0 +1,23 @@
+{
+  "name": "observe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "observe": "app.js"
+  },
+  "dependencies": {
+    "async": "^3.2.2",
+    "caporal": "^1.4.0",
+    "chalk": "^5.0.0",
+    "chokidar": "^3.5.2",
+    "lodash.debounce": "^4.0.8"
+  }
+}
