@@ -1,3 +1,6 @@
 .idea/
 .DS_Store
 list/node_modules/
+ecom/.idea/
+ecom/.DS_Store*
+ecom/node_modules/
